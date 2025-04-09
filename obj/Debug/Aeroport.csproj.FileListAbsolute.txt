@@ -1,0 +1,10 @@
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\bin\Debug\Aeroport.exe.config
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\bin\Debug\Aeroport.exe
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\bin\Debug\Aeroport.pdb
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.csproj.AssemblyReference.cache
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.Form1.resources
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.Properties.Resources.resources
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.csproj.GenerateResource.cache
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.csproj.CoreCompileInputs.cache
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.exe
+C:\Users\selen\Desktop\krush ekz\Aeroport\Aeroport\obj\Debug\Aeroport.pdb
